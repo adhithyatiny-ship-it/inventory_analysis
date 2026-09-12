@@ -32,7 +32,7 @@ Python, pandas, matplotlib
 ## How to Run
 ```bash
 pip install pandas matplotlib openpyxl
-python main.py
+python inventory_analysis.py
 ```
 
 ## Files

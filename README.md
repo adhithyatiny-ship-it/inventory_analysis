@@ -5,7 +5,7 @@
 This project analyzes real-world retail transaction data to identify which products matter most to the business, and calculates when each product should be reordered to avoid stockouts.
 
 ## Dataset
-"Dataset: Online Retail.xlsx (included in this repo, originally sourced from the UCI Machine Learning Repository)" — 541,909 transactions from a UK-based online gift retailer (Dec 2010 – Dec 2011).
+Dataset: Online Retail.xlsx (included in this repo, originally sourced from the UCI Machine Learning Repository) — 541,909 transactions from a UK-based online gift retailer (Dec 2010 – Dec 2011).
 
 ## Steps Performed
 1. **Data Cleaning** — Removed cancellations and invalid entries (negative Quantity/UnitPrice). Reduced dataset from 541,909 to 530,104 valid rows.

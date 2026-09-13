@@ -1,0 +1,103 @@
+OrderID,Product,Category,Region,SalesRep,Quantity,UnitPrice,OrderDate,CustomerType
+ORD1001,Usb-C Cable,Electronics,West,S. Iyer,5.00,15.00,N/A,Retail
+ORD1002,Hdmi Cable,Stationery,North,A. Menon,2.00,"1,200.00",N/A,Retail
+ORD1003,Power Bank,Furniture,N/A,S. Iyer,5.00,"1,200.00",26-01-2026,Online
+ORD1004,Notebook Pack,Stationery,West,S. Iyer,5.00,0.00,"Feb 4, 2026",Retail
+ORD1005,Office Chair,Stationery,West,N/A,1.00,999.99,"Feb 18, 2026",Retail
+ORD1006,Power Bank,Accessories,West,J. Thomas,5.00,29.50,02-11-2026,
+ORD1007,Webcam Hd,Electronics,East,N/A,2.00,0.00,08-09-2026,Retail
+ORD1008,Office Chair,Stationery,East,M. Varma,10.00,29.50,20-11-2026,Online
+ORD1009,Monitor 24In,Furniture,N/A,K. Pillai,10.00,"1,200.00",22-06-2026,Retail
+ORD1010,Wireless Mouse,Stationery,N/A,R. Nair,2.00,"1,200.00",12-19-2026,Retail
+ORD1011,Headphones,Stationery,N/A,S. Iyer,10.00,15.00,N/A,Online
+ORD1012,Webcam Hd,Stationery,N/A,R. Nair,5.00,15.00,17-08-2026,
+ORD1013,Wireless Mouse,Electronics,South,M. Varma,3.00,0.00,"Feb 20, 2026",Wholesale
+ORD1014,External Ssd,,West,J. Thomas,1.00,29.50,09-22-2026,
+ORD1015,Desk Lamp,Electronics,West,K. Pillai,3.00,999.99,12-01-2026,Online
+ORD1016,Laptop Stand,Electronics,West,N/A,5.00,15.00,N/A,
+ORD1016,Headphones,Electronics,West,K. Pillai,1.00,29.50,12-05-2026,Retail
+ORD1018,Monitor 24In,Electronics,North,M. Varma,5.00,29.50,25-09-2026,Retail
+ORD1019,Headphones,Furniture,West,J. Thomas,N/A,"1,200.00",18-12-2026,Online
+ORD1020,Webcam Hd,Stationery,West,K. Pillai,5.00,29.50,08-04-2026,Wholesale
+ORD1021,Wireless Mouse,Furniture,East,A. Menon,2.00,19.99,08-02-2026,
+ORD1022,Desk Lamp,Electronics,East,R. Nair,5.00,"1,200.00",N/A,Online
+ORD1023,Headphones,Furniture,N/A,N/A,N/A,"1,200.00","Feb 4, 2026",Wholesale
+ORD1024,Notebook Pack,Stationery,N/A,N/A,1.00,29.50,07-02-2026,
+ORD1025,Usb-C Cable,Furniture,East,S. Iyer,5.00,15.00,03-14-2026,Wholesale
+ORD1026,Monitor 24In,Electronics,N/A,N/A,2.00,19.99,21-09-2026,Retail
+ORD1027,Monitor 24In,Furniture,N/A,K. Pillai,5.00,"1,200.00",28-07-2026,Retail
+ORD1028,Office Chair,Electronics,N/A,R. Nair,5.00,"1,200.00",N/A,Online
+ORD1029,Headphones,Furniture,East,R. Nair,5.00,19.99,N/A,Retail
+ORD1030,Desk Lamp,Electronics,North,J. Thomas,5.00,15.00,02-09-2026,
+ORD1031,Laptop Stand,Electronics,North, M. Varma,5.00,0.00,04-10-2026,Online
+ORD1032,External Ssd,Electronics,North,K. Pillai,-1.00,"1,200.00",11-07-2026,Retail
+ORD1033,Webcam Hd,Stationery,South,M. Varma,10.00,999.99,11-02-2026,Wholesale
+ORD1033,External Ssd,Electronics,North,J. Thomas,5.00,"1,200.00",05-06-2026,Retail
+ORD1035,Office Chair,Accessories,South,K. Pillai,10.00,19.99,09-22-2026,Online
+ORD1036,Usb-C Cable,Furniture,West,A. Menon,2.00,15.00,N/A,Retail
+ORD1037,Desk Lamp,Furniture,West,J. Thomas,5.00,"1,200.00",28-01-2026,Online
+ORD1038,Notebook Pack,Accessories,North,A. Menon,-1.00,15.00,21-05-2026,Online
+ORD1039,Pen Set,Stationery,North,A. Menon,2.00,15.00,01-18-2026,Online
+ORD1040,Power Bank,Furniture,N/A,S. Iyer,1.00,"1,200.00",01-12-2026,Retail
+ORD1041,Monitor 24In,Electronics,West,N/A,N/A,15.00,08-03-2026,Wholesale
+ORD1042,Wireless Mouse,Furniture,West,N/A,N/A,"1,200.00",09-03-2026,Wholesale
+ORD1043,Wireless Mouse,,East,S. Iyer,5.00,0.00,10-04-2026,Retail
+ORD1044,Monitor 24In,Stationery,West,R. Nair,2.00,"1,200.00",N/A,Wholesale
+ORD1045,Power Bank,Stationery,North,A. Menon,10.00,15.00,19-05-2026,Retail
+ORD1046,External Ssd,Stationery,West,M. Varma,-1.00,0.00,20-09-2026,Wholesale
+ORD1047,Hdmi Cable,Furniture,West,A. Menon,N/A,19.99,17-09-2026,Wholesale
+ORD1048,Notebook Pack,Electronics,West,J. Thomas,-1.00,29.50,N/A,Wholesale
+ORD1049,Notebook Pack,Stationery,N/A,M. Varma,10.00,15.00,"Jul 7, 2026",Online
+ORD1050,Laptop Stand,Accessories,N/A,J. Thomas,1.00,"1,200.00","Apr 10, 2026",
+ORD1050,Hdmi Cable,Stationery,N/A,K. Pillai,5.00,"1,200.00",17-08-2026,Online
+ORD1052,Bluetooth Keyboard,Accessories,West,A. Menon,5.00,"1,200.00",08-04-2026,Retail
+ORD1053,Wireless Mouse,Furniture,N/A,J. Thomas,2.00,999.99,N/A,Retail
+ORD1054,Office Chair,,N/A,S. Iyer,3.00,19.99,"Feb 25, 2026",Retail
+ORD1055,Laptop Stand,,North,J. Thomas,5.00,29.50,"Mar 15, 2026",Online
+ORD1056,Headphones,Stationery,N/A,J. Thomas,N/A,999.99,"Dec 6, 2026",Wholesale
+ORD1057,Webcam Hd,Furniture,West,N/A,5.00,"1,200.00",09-08-2026,Online
+ORD1058,Webcam Hd,Furniture,West,R. Nair,-1.00,29.50,05-03-2026,Wholesale
+ORD1059,Usb-C Cable,Furniture,North,K. Pillai,N/A,0.00,"Aug 18, 2026",Retail
+ORD1060,Monitor 24In,Stationery,N/A,N/A,1.00,0.00,01-16-2026,Wholesale
+ORD1061,Office Chair,Stationery,East,K. Pillai,5.00,"1,200.00",14-08-2026,Wholesale
+ORD1062,Desk Lamp,Stationery,South,N/A,5.00,15.00,20-09-2026,Wholesale
+ORD1063,Hdmi Cable,Electronics,North,M. Varma,N/A,15.00,28-08-2026,Retail
+ORD1064,Webcam Hd,Stationery,West,S. Iyer,5.00,0.00,07-11-2026,
+ORD1065,Notebook Pack,Accessories,North,K. Pillai,1.00,19.99,12-04-2026,
+ORD1066,Wireless Mouse,Electronics,East,S. Iyer,1.00,15.00,"Mar 8, 2026",Online
+ORD1067,Usb-C Cable,Furniture,N/A,M. Varma,10.00,0.00,N/A,Online
+ORD1067,Usb-C Cable,Furniture,West,A. Menon,1.00,"1,200.00","Nov 19, 2026",Wholesale
+ORD1069,Monitor 24In,Electronics,East,A. Menon,10.00,29.50,26-10-2026,Wholesale
+ORD1070,Power Bank,Stationery,West,A. Menon,-1.00,19.99,"Jul 28, 2026",Retail
+ORD1071,Notebook Pack,Stationery,N/A,M. Varma,3.00,0.00,N/A,Online
+ORD1072,Webcam Hd,,N/A,K. Pillai,10.00,0.00,28-04-2026,Wholesale
+ORD1073,Pen Set,Furniture,N/A,J. Thomas,N/A,0.00,08-01-2026,Retail
+ORD1074,Headphones,Furniture,West,N/A,10.00,0.00,10-09-2026,Online
+ORD1075,Wireless Mouse,Furniture,North,S. Iyer,N/A,999.99,"Apr 18, 2026",Online
+ORD1076,Headphones,,North,A. Menon,10.00,"1,200.00",13-12-2026,Wholesale
+ORD1077,Hdmi Cable,Stationery,N/A,J. Thomas,-1.00,0.00,09-24-2026,Wholesale
+ORD1078,Pen Set,Accessories,West,R. Nair,5.00,29.50,04-24-2026,Retail
+ORD1079,Power Bank,Furniture,East,S. Iyer,5.00,"1,200.00",N/A,Online
+ORD1080,Webcam Hd,Electronics,East,R. Nair,5.00,0.00,06-05-2026,Online
+ORD1081,Power Bank,Furniture,West,A. Menon,1.00,"1,200.00","Mar 23, 2026",Retail
+ORD1082,Wireless Mouse,Accessories,N/A,K. Pillai,5.00,0.00,01-06-2026,
+ORD1083,Headphones,Electronics,North,K. Pillai,5.00,29.50,19-11-2026,Retail
+ORD1084,Usb-C Cable,Accessories,North,S. Iyer,2.00,0.00,N/A,Retail
+ORD1084,Headphones,Stationery,N/A,K. Pillai,10.00,0.00,N/A,Retail
+ORD1086,External Ssd,Electronics,East,M. Varma,5.00,"1,200.00",22-02-2026,Retail
+ORD1087,Laptop Stand,Electronics,South,A. Menon,N/A,999.99,"Oct 23, 2026",Wholesale
+ORD1088,Wireless Mouse,Furniture,West,M. Varma,10.00,999.99,03-11-2026,Wholesale
+ORD1089,Hdmi Cable,Furniture,N/A,A. Menon,5.00,15.00,09-03-2026,Retail
+ORD1090,Laptop Stand,Accessories,West,K. Pillai,2.00,999.99,"May 23, 2026",Wholesale
+ORD1091,Headphones,,N/A,A. Menon,1.00,0.00,N/A,Wholesale
+ORD1092,Wireless Mouse,Electronics,East,M. Varma,1.00,"1,200.00",19-01-2026,Wholesale
+ORD1093,Headphones,,West,S. Iyer,N/A,999.99,08-03-2026,Wholesale
+ORD1094,Desk Lamp,Stationery,North,N/A,3.00,0.00,"Dec 14, 2026",Wholesale
+ORD1095,Office Chair,Electronics,N/A,A. Menon,-1.00,"1,200.00","Feb 11, 2026",
+ORD1096,Headphones,Electronics,N/A,K. Pillai,1.00,"1,200.00",N/A,
+ORD1097,Headphones,,North,S. Iyer,10.00,15.00,"Aug 10, 2026",Retail
+ORD1098,Wireless Mouse,Furniture,South,R. Nair,1.00,0.00,03-04-2026,Wholesale
+ORD1099,Usb-C Cable,Furniture,N/A,M. Varma,10.00,"1,200.00","Aug 14, 2026",Retail
+ORD1100,Pen Set,Furniture,N/A,S. Iyer,3.00,29.50,07-09-2026,
+,,,,,,,,
+,,,,,,,,
